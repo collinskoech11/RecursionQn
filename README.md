@@ -56,6 +56,8 @@ Department of Computer Science
 Telephine: (306) 966-4886, Facimile: (306) 966-4884
 Winter 2021
 Introduction to Computer Science
+
+
 # Question 2 (6 points):
 ## Purpose: To practice recursion with a simple example.
 Degree of Difficulty: Easy.
