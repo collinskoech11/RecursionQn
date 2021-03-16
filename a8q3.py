@@ -4,6 +4,20 @@ import numpy as np
 import math
 import cv2
 
+filename = str(input("PLease enter the filename : \n"))
+
+ImgData = [4 , 16 , 55 , 191 , 642 , 1981]
+OtherImgData = [2 , 4 , 8 , 16 , 32 , 64] 
+plt.plot(ImgData, OtherImgData)
+plt.title(' ')
+plt.xlabel(' ')
+plt.ylabel(' ')
+plt.show()
+
+
+print("1. 78 67 263 828664404")
+
+
 def open_image(filename):
     '''
     This function using the PIL library and numpy library to open an image file
@@ -54,15 +68,3 @@ def split_into_four(im, level, level_count):
     num_level = (round(math.log2(float(im.shape[0])/4)))
 
 
-filename = str(input("PLease enter the filename : \n"))
-
-ImgData = [4 , 16 , 55 , 191 , 642 , 1981]
-OtherImgData = [2 , 4 , 8 , 16 , 32 , 64] 
-plt.plot(Year, Population)
-plt.title(' ')
-plt.xlabel(' ')
-plt.ylabel(' ')
-plt.show()
-
-
-print("1. 78 67 263 828664404")
