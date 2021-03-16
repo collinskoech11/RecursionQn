@@ -50,4 +50,4 @@ def split_into_four(im, level, level_count):
 
 #This tells you the expected number of levels
 #use this to initialize a list with zeros using a list comprehension
-num_level = (round(math.log2(float(im.shape[0])/4)))
+    num_level = (round(math.log2(float(im.shape[0])/4)))

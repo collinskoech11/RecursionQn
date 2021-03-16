@@ -20,7 +20,7 @@ def rucursive():
         return 0
 
 print(lst)
-Year = [2001,2002,2003,2004,2006,2007,2008,2009]
+Year = [2001,2002,2003,2004,2005,2006,2007,2008]
 Population = [100,150,200,250,300,350,400,450]  
 plt.plot(Year, Population)
 plt.title('Population Growth Rate ')
