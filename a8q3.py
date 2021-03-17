@@ -1,3 +1,9 @@
+# Noel Wafuko
+# nww010 # 11308656
+# For Instructor Jeff Long
+
+
+
 import matplotlib.pyplot as plt
 from PIL import Image as image
 import numpy as np

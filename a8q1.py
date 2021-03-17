@@ -1,4 +1,6 @@
-
+# Noel Wafuko
+# nww010 # 11308656
+# For Instructor Jeff Long
 
 InitialString = 'I CHOOSE YOU PIKACHU'
 print(InitialString)
