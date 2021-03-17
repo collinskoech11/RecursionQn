@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from PIL import Image as image
 import numpy as np
 import math
-import cv2
+
 
 filename = str(input("PLease enter the filename : \n"))
 
